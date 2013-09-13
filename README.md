@@ -23,7 +23,7 @@ If the name of your VM is called **MyVm** and you want to run it headless.
     headless status MyVm
 
 ## Install ##
-Copy `headless.exe` into your %PATH%.
+Copy `dist\headless.exe` into your %PATH%.
 
 Optionally you can create a shortcut to run and stop on your desktop.
 
